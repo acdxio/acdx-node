@@ -1,6 +1,6 @@
 {
   "name": "acdx",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "description": "Official Node.js client library for the ACDX REST and WebSocket APIs.",
   "main": "index.js",
   "scripts": {
